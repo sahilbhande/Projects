@@ -1,1 +1,1 @@
-This is a movie recomendation model
+Here are some of my collection of projects
